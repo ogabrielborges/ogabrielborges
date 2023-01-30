@@ -14,15 +14,13 @@ Apenas um jovem de 17 anos que deseja ser garoto de programa e tem como hobby a 
 <br>
 
 ## Estudando 🔭
-> <img src="https://i.imgur.com/JeZF0cc.png" width="9%" height="9%">
+> <img src="https://i.imgur.com/JeZF0cc.png" width="11%" height="11%">
 
-> <img src="https://i.imgur.com/U7u7QiD.png" width="9%" height="9%">
+> <img src="https://i.imgur.com/U7u7QiD.png" width="11%" height="11%">
 
-> <img src="https://i.imgur.com/8e6orNq.png" width="9%" height="9%">
+> <img src="https://i.imgur.com/ldtCNoy.png" width="11%" height="11%">
 
-> <img src="https://i.imgur.com/8e6orNq.png" width="9%" height="9%">
-
-> <img src="https://i.imgur.com/8e6orNq.png" width="9%" height="9%">
+> <img src="https://i.imgur.com/NionAHt.png" width="11%" height="11%">
 <!--
 **ogabrielborges/ogabrielborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
