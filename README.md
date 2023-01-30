@@ -6,7 +6,7 @@ Apenas um jovem de 17 anos que deseja ser garoto de programa e tem como hobby a 
 <br>
 <br>
 
-## Projetos 🧪
+## Meus projetos 🧪
 
 - Gamer'sBoard
 - HypeHost
