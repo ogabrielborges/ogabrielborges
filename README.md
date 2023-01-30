@@ -13,7 +13,7 @@ Apenas um jovem de 17 anos que deseja ser garoto de programa e tem como hobby a 
 - CubeShop
 <br>
 
-## Estudando 🔭
+## Atualmente estudo 🔭
 > <img src="https://i.imgur.com/JeZF0cc.png" width="11%" height="11%">
 
 > <img src="https://i.imgur.com/U7u7QiD.png" width="11%" height="11%">
