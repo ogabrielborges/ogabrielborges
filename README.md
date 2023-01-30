@@ -16,7 +16,7 @@ Apenas um jovem de 17 anos que deseja ser garoto de programa e tem como hobby a 
 ## Estudando 🔭
 > <img src="https://i.imgur.com/JeZF0cc.png" width="9%" height="9%">
 
-> <img src="https://i.imgur.com/8e6orNq.png" width="9%" height="9%">
+> <img src="https://i.imgur.com/U7u7QiD.png" width="9%" height="9%">
 
 > <img src="https://i.imgur.com/8e6orNq.png" width="9%" height="9%">
 
