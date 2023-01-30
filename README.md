@@ -8,9 +8,9 @@ Apenas um jovem de 17 anos que deseja ser garoto de programa e tem como hobby a 
 
 ## Meus projetos 🧪
 
-- Gamer'sBoard
-- HypeHost
-- CubeShop
+- [Gamer's Board](https://gamersboard.com.br/)
+- [HypeHost](https://hypehost.com.br/)
+- [CubeShop](https://cubeshop.com.br)
 <br>
 
 ## Atualmente estudo 🔭
