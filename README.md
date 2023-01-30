@@ -1,4 +1,4 @@
-![](https://i.imgur.com/Y7PmRjd.png)
+<img src="https://i.imgur.com/S1WDT1V.gif" width="25%">
 
 ## Prazer, Gabriel! 🪪
 Apenas um jovem de 17 anos que deseja ser garoto de programa e tem como hobby a eletronica, internet das coisas e robótica no geral! Sou escoteiro desde pequeno e adoraria desenvolver projetos iot que ajudam a humanidade de alguma forma! Dono de um dos maiores fóruns gamers voltado para desenvolvedores java, web e backend, com um grande acervo de códigos e tutoriais para servidores de Minecraft!
