@@ -1,5 +1,10 @@
-### Hi there 👋
+#### Prazer, Gabriel ⚡
 
+
+Apenas um jovem de 17 anos que deseja ser garoto de programa e tem como hobby a eletronica, internet das coisas e robótica no geral! Sou escoteiro desde pequeno e adoraria desenvolver projetos iot que ajudam a humanidade de alguma forma! Dono de um dos maiores fóruns gamers voltado para desenvolvedores java, web e backend, com um grande acervo de códigos e tutoriais para servidores de Minecraft!
+
+#### Estudando 🔭
+- <img src="https://i.imgur.com/8e6orNq.png" width="10%" height="10%">
 <!--
 **ogabrielborges/ogabrielborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
